@@ -1,0 +1,1 @@
+Copy your restaurant satisfaction dataset here and name it restaurant_customer_satisfaction.csv. The app uses demo data until this CSV is added.
